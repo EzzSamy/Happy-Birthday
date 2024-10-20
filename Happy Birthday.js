@@ -8,7 +8,7 @@ var w = c.width = window.innerWidth,
 		opts = {
 			strings: [ 'THE MOON IS 19 YEARS OLD NOW', ' HAPPY BIRTHDAY YA MANOUN❤️'],
 			charSize: 30,
-			charSpacing: 35,
+			charSpacing: 28,
 			lineHeight: 40,
 			
 			cx: w / 2,
